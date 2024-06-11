@@ -48,5 +48,5 @@ void loop() {
     http.end();
   }
 
-  delay(10000); // Kirim data setiap 60 detik
+  delay(10000); // Kirim data setiap 10 detik
 }
