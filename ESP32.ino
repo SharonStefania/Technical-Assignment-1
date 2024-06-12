@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 #include "DHT.h"
 
-#define DHTPIN 4
+#define DHTPIN 2
 
 const char* ssid = "SICBatch5";
 const char* password = "12345678";
